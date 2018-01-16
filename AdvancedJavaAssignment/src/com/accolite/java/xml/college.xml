@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+	<studnet>
+		<rollnum>1</rollnum>
+		<name>Anupam</name>
+	</studnet>
+	<student>
+		<rollnum>2</rollnum>
+		<name>Anantha</name>
+	</student>
+	<student>
+		<rollnum>3</rollnum>
+		<name>Anushree</name>
+	</student>
+	<student>
+		<rollnum>4</rollnum>
+		<name>Chithrarth</name>
+	</student>
+	<student>
+		<rollnum>5</rollnum>
+		<name>Ragul</name>
+	</student>
+	<student>
+		<rollnum>6</rollnum>
+		<name>Nawaz</name>
+	</student>
+	<student>
+		<rollnum>7</rollnum>
+		<name>Rahul</name>
+	</student>
+	<student>
+		<rollnum>8</rollnum>
+		<name>Aditi</name>
+	</student>
+</college>
