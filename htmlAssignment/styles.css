@@ -1,0 +1,21 @@
+#content {
+    display : inline-block;
+    width : 225px;
+    float: left;
+    margin-left: 20px;
+}
+#experience{
+    display : inline-block;
+    margin-left : 50px;
+    width : 400px;
+}
+#about{
+    display : inline-block;
+    margin-left : 50px;
+    width : 400px;
+}
+.header {
+    display : block;
+    background-color : rgba(20, 18, 18, 0.233);
+    color : white;
+}
